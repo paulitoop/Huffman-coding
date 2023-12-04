@@ -339,12 +339,12 @@ int Read_And_Decode(string Encoded_Data_Path, string Decoded_Data_Path)
 int main()
 {
     setlocale(LC_ALL, "Russian");
-    cout << "Welcome to Huffman coding application!" << endl;
+    cout << "Welcome to Huffman coding application! It's nice to see you!" << endl;
     cout << "Hello World!" << endl;
     cout << endl;
     cout << endl;
     string Encoded_Data_Path = "D:\\KURS\\test.hfmn";
-    string Incoming_Data_Path = "D:\\KURS\\5.5.txt";
+    string Incoming_Data_Path = "D:\\readme.txt";
     string Decoded_Data_Path = "D:\\KURS\\decoded.txt";
     string s1, s2, s3;
     int mode;
