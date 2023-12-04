@@ -340,6 +340,7 @@ int main()
 {
     setlocale(LC_ALL, "Russian");
     cout << "Welcome to Huffman coding application!" << endl;
+    cout << "Hello World!" << endl;
     cout << endl;
     cout << endl;
     string Encoded_Data_Path = "D:\\KURS\\test.hfmn";
